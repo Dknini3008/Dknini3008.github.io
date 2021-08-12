@@ -1,0 +1,73 @@
+.Help__content {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    margin-top: 0vh;
+    flex-direction: row;
+    justify-content: initial;
+    align-items:initial;
+    position: initial;
+    z-index: 2;
+}
+
+.Info__content_help {
+    margin-top: 4vh;
+    display: flex;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+}
+
+.Info__kit_img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-right: 12vh;
+}
+
+.Info__help_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: stretch;
+    position: relative;
+    margin-left: 0vh;
+    width: 40em;
+}
+
+.Info__help_img{
+    margin-top: 20vh;
+    margin-bottom: 0vh;
+    margin-right: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: baseline;
+    position: sticky;
+    background-size: 60%;
+}
+
+.Info__paragraph_help { 
+    font-size: 1em;
+    font-family: 'Roboto Condensed', cursive;
+    font-weight:500;
+    justify-content: justify;
+}
+
+.Info__title_help {
+    font-size: 3em;
+    margin-bottom: 4vh;
+    margin-top: 10px;
+    font-family: 'Advent Pro', cursive;
+}
+
+#estiloHR{
+    height: 2px;
+    width: 80%;
+    margin: 10%;
+}

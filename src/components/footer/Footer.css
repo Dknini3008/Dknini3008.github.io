@@ -1,0 +1,23 @@
+.main-footer {
+    color: white;
+    background-color: #140C05;
+    padding-top: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top:120px;
+  }
+
+.img {
+  width: 290px; height: 200px;
+}
+
+.social-img{
+  width: 100px; height: 100px;
+  margin-right: 10px;
+  margin-top:20px;
+}
+  
+
+
+

@@ -1,0 +1,45 @@
+.Navbar {
+    display: flex;
+    align-content: center;
+    height: 12%;
+    width: 100%;
+    background-color: rgb(20, 12, 5);
+    position: absolute;
+    z-index: 2;
+}
+
+.Navbar img {
+    margin: 12px 0 10px 20px;
+    height: 50px;
+}
+
+.Navbar__transparent {
+    display: flex;
+    align-content: center;
+    height: 12%;
+    width: 100%;
+    background-color: rgba(20, 12, 5, 0.7);
+    position: absolute;
+    z-index: 2;
+}
+
+.Navbar__transparent img {
+    margin: 12px 0 10px 20px;
+    height: 50px;
+}
+
+.link {
+    margin-left: 1vh;
+}
+
+.nav__links{
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto Condensed', cursive;
+}
+
+.Links__list {
+    display: flex;
+    margin-left: 155vh;
+    justify-content: space-around;
+}
